@@ -1,0 +1,23 @@
+/* Milky Rainbow */
+@font-face {
+  font-family: 'Milky Rainbow';
+  src: url("/font/Milky Rainbow.otf");
+}
+/* Homework */
+@font-face {
+  font-family: 'Homework';
+  src: url("/font/Homework.otf");
+}
+/* OpenSans-Semibold */
+@font-face {
+  font-family: 'OpenSans-Semibold';
+  src: url("/font/OpenSans-Semibold.ttf");
+}
+/* 全文默认字体 */
+body {
+  font-family: 'OpenSans-Semibold';
+}
+/* widget内作者名称 */
+.author-info__name {
+  font-family: 'Milky Rainbow';
+}
